@@ -1,3 +1,6 @@
+https://developer.microsoft.com/en-us/graph/graph-explorer
+
+
 Go to https://aka.ms/ge
 
 Log in with Admin account.
